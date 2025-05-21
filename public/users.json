@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Jane Doe",
+    "subtitle": "Top Developer",
+    "image": "https://randomuser.me/api/portraits/men/44.jpg",
+    "description": "Expert in React and Node.js. Building scalable web apps for 8+ years."
+  },
+  {
+    "id": "2",
+    "title": "Acme Product",
+    "subtitle": "Best Seller",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=facearea&w=256&h=256&q=80",
+    "description": "A revolutionary product that changes the way you work and play."
+  },
+  {
+    "id": "3",
+    "title": "John Smith",
+    "subtitle": "UI/UX Designer",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "description": "Designing beautiful and user-friendly interfaces for modern apps."
+  }
+]
